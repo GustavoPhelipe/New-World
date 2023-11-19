@@ -1,0 +1,18 @@
+Objetivos:
+palheta de cores:
+	010400	: Preto
+	30332E	: Azeitona preta
+	FFFBFC	: Neve
+	62BBC1	: Verdete
+	849324	: Oliva
+Pagina Principal:
+	nome
+	menu
+	resumo
+	principais items
+	principais locais
+	roda pé
+Items
+Mapa
+NPCs e Criaturas
+Historia
