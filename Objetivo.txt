@@ -6,10 +6,10 @@ palheta de cores:
 	62BBC1	: Verdete
 	849324	: Oliva
 Pagina Principal:
-	nome
-	menu
-	resumo
-	principais items
+	nome				ok
+	menu				ok
+	resumo				ok
+	principais items	
 	principais locais
 	roda pé
 Items
